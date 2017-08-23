@@ -13,3 +13,30 @@
 //
 // Output:
 // [5,6]
+
+var createObj = function(nums){
+    let result = {};
+
+    for(let i = 0; i < nums.length; i++){
+        let number = nums[i];
+        if(result.hasOwnProperty(number)){
+            result[number] += 1;
+        } else {
+            result[number] = 1;
+        }
+    }
+    return result;
+};
+var findDisappearedNumbers = function(nums) {
+    let numbHash = createObj(nums);
+    let result = [];
+    for(let i = 1; i <= nums.length; i++){
+        if (!numbHash.hasOwnProperty(i)){
+            result.push(i);
+        }
+    }
+    return result;
+
+
+
+};

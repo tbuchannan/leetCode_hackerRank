@@ -22,7 +22,7 @@
 
 - [x] [Ransom Note][ransom_note]
 
-- [x] [Reverse Integer][reverse_int]
+- [x] [Reverse Integer][reverse_integer]
 
 - [x] [Reverse String][reverse_string]
 
@@ -51,11 +51,11 @@
 
 [ransom_note]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransom_note.js
 
-[reverse_int]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_integer.js
+[reverse_integer]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_integer.js
 
 [reverse_string]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_string.js
 
-[single_number]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_string.js
+[single_number]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/single_number.js
 
 [two_sum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/two_sum.js
 

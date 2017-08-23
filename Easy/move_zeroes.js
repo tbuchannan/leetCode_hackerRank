@@ -7,3 +7,25 @@
 // Note:
 // You must do this in-place without making a copy of the array.
 // Minimize the total number of operations.
+
+var moveZeroes = function(nums) {
+
+  let switchMade = true;
+
+  while(switchMade){
+    switchMade = false;
+    for (let i = 0; i < nums.length - 1; i++) {
+      for (let j = i + 1; j <nums.length; j++) {
+        let left = nums[i];
+        let right = nums[j];
+        let temp;
+        if (left === 0 && right !== 0){
+          temp = right;
+          nums[j] = left;
+          nums[i] = temp;
+          switchMade = true;
+        }
+      }
+    }
+  }
+};

@@ -11,3 +11,35 @@
 // pattern = "abba", str = "dog dog dog dog" should return false.
 // Notes:
 // You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.
+var wordPattern = function(pattern, str) {
+    let patternArr = pattern.split('');
+    let strArr = str.split(' ');
+
+    if (patternArr.length !== strArr.length){
+        return false;
+    }
+    let wordHash = {};
+
+    for (let i = 0; i < pattern.length; i++) {
+        let letter = pattern[i];
+        let word = strArr[i];
+
+        if (wordHash[letter] === undefined) {
+            wordHash[letter] = word;
+        } else if (wordHash[letter] !== word) {
+            return false;
+        }
+    }
+    let test = {};
+
+    for (let val in wordHash) {
+        let word = wordHash[val];
+        if (test[word] === undefined) {
+            test[word] = true;
+        } else {
+            return false;
+        }
+    }
+
+    return true;
+};

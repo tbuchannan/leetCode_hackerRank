@@ -17,3 +17,28 @@
 //
 // Note:
 // The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows.
+function reverseString (str){
+    return str.split('').reverse().join('');
+}
+
+var reverse = function(x) {
+    let result = "";
+    let capNumber = (Math.pow(2, 32)/2) - 1;
+    if (x >= 0){
+        result += x;
+        result = reverseString(result);
+        result = parseInt(result);
+        if(Math.abs(result) > capNumber){
+            return 0;
+        }
+    } else{
+        let number = (x + "").slice(1);
+        result = '-' + reverseString(number);
+        result = parseInt(result);
+
+        if(Math.abs(result) > capNumber){
+            return 0;
+        }
+    }
+    return result;
+};

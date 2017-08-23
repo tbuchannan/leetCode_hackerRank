@@ -20,3 +20,27 @@
 // Note:
 // All elements in nums1 and nums2 are unique.
 // The length of both nums1 and nums2 would not exceed 1000.
+
+var nextGreaterElement = function(findNums, nums) {
+    let result = [];
+
+    for(let i = 0; i < findNums.length; i++){
+        let target = findNums[i];
+        result.push(getNextElement(nums, target));
+    }
+    return result;
+
+};
+
+var getNextElement = function(nums, target){
+    for(let i = 0; i < nums.length; i++){
+        if (nums[i] === target){
+            for(let j = i + 1; j < nums.length; j++){
+                if (nums[i] < nums[j]){
+                    return nums[j];
+                }
+            }
+        }
+    }
+    return -1;
+};

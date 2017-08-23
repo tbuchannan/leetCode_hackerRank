@@ -11,7 +11,7 @@
 //
 // Output: 2
 //
-// Explanation: The third maximum does not exist, so the maximum (2) is returned instead.
+// Explanation: The third maximum does not exist, so the maximum (2) is returned instead.s
 // Example 3:
 // Input: [2, 2, 3, 1]
 //
@@ -19,6 +19,7 @@
 //
 // Explanation: Note that the third maximum here means the third maximum distinct number.
 // Both numbers with value 2 are both considered as second maximum.
+
 
 
 var thirdMax = function(nums) {
@@ -30,7 +31,7 @@ var thirdMax = function(nums) {
       sortedArr.push(number);
     }
   }
-  
+
   //this way of sorting is relatively slow, and gets a lot slower the larger the array
   sortedArr = sortedArr.sort(function(a, b){return a - b;});
 

@@ -4,9 +4,9 @@
 
 #### Easy
 
-- [ ] [Complete Add Digits][add_digits]
+- [x] [Complete Add Digits][add_digits]
 
-- [ ] [Complete Move Zeroes][move_zeroes]
+- [x] [Complete Move Zeroes][move_zeroes]
 
 - [ ] [Complete Nim Game][nim_game]
 

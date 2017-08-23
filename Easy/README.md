@@ -10,7 +10,7 @@
 
 - [ ] Complete Nim Game
 
-- [ ] Third Max Number: Use a different, more efficient sorting algorithm
+- [ ] Third Maximum Number: Use a different, more efficient sorting algorithm
 
 - [x] Find Numbers Disappeared In Array
 
@@ -27,8 +27,6 @@
 - [x] Reverse String
 
 - [x] Single Number
-
-- [x] Third Maximum Number
 
 - [x] Two Sum
 

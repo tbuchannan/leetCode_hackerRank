@@ -12,7 +12,7 @@
 
 - [ ] Third Maximum Number: Use a different, more efficient sorting algorithm
 
-- [x] Find Numbers Disappeared In Array
+- [x] [Find Numbers Disappeared In Array][find_nums_disappeared_in_array]
 
 - [x] Find the Difference
 
@@ -31,3 +31,7 @@
 - [x] Two Sum
 
 - [x] Word Pattern
+
+
+
+[find_nums_disappeared_in_array]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/find_nums_disappeared_in_array.js

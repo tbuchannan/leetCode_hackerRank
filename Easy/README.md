@@ -10,7 +10,7 @@
 
 - [ ] [Complete Nim Game][nim_game]
 
-- [ ] [Third Maximum Number: Use a different, more efficient sorting algorithm] [third_max_num]
+- [ ] [Third Maximum Number: Use a different, more efficient sorting algorithm][third_max_num]
 
 - [x] [Find Numbers Disappeared In Array][find_nums_disappeared_in_array]
 

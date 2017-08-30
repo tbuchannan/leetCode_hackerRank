@@ -10,6 +10,8 @@
 
 - [ ] [Complete Nim Game][nim_game]
 
+- [ ] [Valid Perfect Square][valid_perfect_square]
+
 - [ ] [Third Maximum Number: Use a different, more efficient sorting algorithm][third_max_num]
 
 - [x] [Find Numbers Disappeared In Array][find_nums_disappeared_in_array]
@@ -38,6 +40,8 @@
 [move_zeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/move_zeroes.js
 
 [nim_game]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nim_game.js
+
+[valid_perfect_square]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/valid_perfect_square.js
 
 [third_max_num]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/third_maximum_number.js
 

@@ -39,9 +39,9 @@
 
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
-[validPerfectSquare]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/validPerfectSquare.js
+[validPerfectSquare]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/validPerfectSquare.js
 
-[uglyNumber]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/uglyNumber.js
+[uglyNumber]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/uglyNumber.js
 
 [addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/addDigits.js
 

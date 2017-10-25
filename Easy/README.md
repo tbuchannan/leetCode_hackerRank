@@ -4,15 +4,15 @@
 
 #### Easy
 
-- [x] [Complete Add Digits][add_digits]
-
-- [x] [Complete Move Zeroes][move_zeroes]
-
 - [ ] [Complete Nim Game][nim_game]
 
 - [ ] [Valid Perfect Square][valid_perfect_square]
 
-- [ ] [Third Maximum Number: Use a different, more efficient sorting algorithm][third_max_num]
+- [x] [Complete Add Digits][add_digits]
+
+- [x] [Complete Move Zeroes][move_zeroes]
+
+- [x] [Third Maximum Number][third_max_num]
 
 - [x] [Find Numbers Disappeared In Array][find_nums_disappeared_in_array]
 

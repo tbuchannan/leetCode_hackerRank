@@ -10,10 +10,10 @@
 // Because nums[0] + nums[1] = 2 + 7 = 9,
 // return [0, 1].
 
-var twoSum = function(nums, target) {
-    for (let i = 0; i < nums.length -1; i++){
-        for (let j = i + 1; j <nums.length; j++){
-            if (nums[i] + nums[j] === target){
+const twoSum = (numArray, target) => {
+    for (let i = 0; i < numArray.length -1; i++){
+        for (let j = i + 1; j <numArray.length; j++){
+            if (numArray[i] + numArray[j] === target){
                 return [i, j];
             }
         }

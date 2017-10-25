@@ -14,7 +14,7 @@
 // Output:
 // [5,6]
 
-var createObj = function(nums){
+const createObj = (nums) => {
     let result = {};
 
     for(let i = 0; i < nums.length; i++){
@@ -27,7 +27,7 @@ var createObj = function(nums){
     }
     return result;
 };
-var findDisappearedNumbers = function(nums) {
+const findDisappearedNumbers = (nums)  => {
     let numbHash = createObj(nums);
     let result = [];
     for(let i = 1; i <= nums.length; i++){

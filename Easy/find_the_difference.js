@@ -16,7 +16,7 @@
 //
 // Explanation:
 // 'e' is the letter that was added.
-var createStringObj = function(string) {
+const createStringObj = (string) => {
   let obj = {};
   for(let i = 0; i < string.length; i++) {
     let letter = string[i];
@@ -29,11 +29,11 @@ var createStringObj = function(string) {
   return obj;
 };
 
-var findTheDifference = function(s, t) {
-  let shuffledString = createStringObj(t);
+const findTheDifference = (str, str2) => {
+  let shuffledString = createStringObj(str2);
 
-  for(let i = 0; i < s.length; i++) {
-    let letter = s[i];
+  for(let i = 0; i < str.length; i++) {
+    let letter = str[i];
     shuffledString[letter] -= 1;
   }
 

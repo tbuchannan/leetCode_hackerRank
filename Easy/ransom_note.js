@@ -11,7 +11,7 @@
 // canConstruct("aa", "ab") -> false
 // canConstruct("aa", "aab") -> true
 
-var createHash = function(word){
+const createHash = (word) => {
     let result = {};
 
     for(let i = 0 ; i < word.length; i++){
@@ -24,7 +24,7 @@ var createHash = function(word){
     }
     return result;
 };
-var canConstruct = function(ransomNote, magazine) {
+const canConstruct = (ransomNote, magazine) => {
     let ransomHash = createHash(ransomNote);
 
     for(let i = 0; i < magazine.length; i++){

@@ -12,7 +12,7 @@
 // Returns: False
 
 
-var isPerfectSquare = function(num) {
+const isPerfectSquare = (num) => {
   let end = num / 2;
   let start = 1;
 

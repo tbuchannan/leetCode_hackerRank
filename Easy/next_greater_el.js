@@ -21,7 +21,7 @@
 // All elements in nums1 and nums2 are unique.
 // The length of both nums1 and nums2 would not exceed 1000.
 
-var nextGreaterElement = function(findNums, nums) {
+const nextGreaterElement = (findNums, nums) => {
     let result = [];
 
     for(let i = 0; i < findNums.length; i++){
@@ -32,7 +32,7 @@ var nextGreaterElement = function(findNums, nums) {
 
 };
 
-var getNextElement = function(nums, target){
+const getNextElement = (nums, target) => {
     for(let i = 0; i < nums.length; i++){
         if (nums[i] === target){
             for(let j = i + 1; j < nums.length; j++){

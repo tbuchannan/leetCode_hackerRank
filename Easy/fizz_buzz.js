@@ -27,7 +27,7 @@
 //     "FizzBuzz"
 // ]
 
-var fizzBuzz = function(n) {
+const fizzBuzz = (n) => {
     let result = [];
     for(let i = 1; i <= n; i++){
         if (i % 15 === 0){

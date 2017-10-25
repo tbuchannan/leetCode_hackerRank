@@ -11,7 +11,7 @@
 // pattern = "abba", str = "dog dog dog dog" should return false.
 // Notes:
 // You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.
-var wordPattern = function(pattern, str) {
+const wordPattern = (pattern, str) => {
     let patternArr = pattern.split('');
     let strArr = str.split(' ');
 

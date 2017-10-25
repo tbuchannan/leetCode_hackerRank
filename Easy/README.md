@@ -4,63 +4,67 @@
 
 #### Easy
 
-- [ ] [Complete Nim Game][nim_game]
+- [ ] [Complete Nim Game][nimGame]
 
-- [ ] [Valid Perfect Square][valid_perfect_square]
+- [ ] [Valid Perfect Square][validPerfectSquare]
 
-- [x] [Complete Add Digits][add_digits]
+- [ ] [Ugly Number][uglyNumber]
 
-- [x] [Complete Move Zeroes][move_zeroes]
+- [x] [Complete Add Digits][addDigits]
 
-- [x] [Third Maximum Number][third_max_num]
+- [x] [Complete Move Zeroes][moveZeroes]
 
-- [x] [Find Numbers Disappeared In Array][find_nums_disappeared_in_array]
+- [x] [Third Maximum Number][thirdMaxNum]
 
-- [x] [Find the Difference][find_the_difference]
+- [x] [Find Numbers Disappeared In Array][findNumsDisappearedInArray]
 
-- [x] [Fizz Buzz][fizz_buzz]
+- [x] [Find the Difference][findTheDifference]
 
-- [x] [Next Greater Element][next_great_el]
+- [x] [Fizz Buzz][fizzBuzz]
 
-- [x] [Ransom Note][ransom_note]
+- [x] [Next Greater Element][nextGreaterEl]
 
-- [x] [Reverse Integer][reverse_integer]
+- [x] [Ransom Note][ransomNote]
 
-- [x] [Reverse String][reverse_string]
+- [x] [Reverse Integer][reverseInteger]
 
-- [x] [Single Number][single_number]
+- [x] [Reverse String][reverseString]
 
-- [x] [Two Sum][two_sum]
+- [x] [Single Number][singleNumber]
 
-- [x] [Word Pattern][word_pattern]
+- [x] [Two Sum][twoSum]
+
+- [x] [Word Pattern][wordPattern]
 
 
-[add_digits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/add_digits.js
-
-[move_zeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/move_zeroes.js
-
-[nim_game]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nim_game.js
+[nim_game]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
 [valid_perfect_square]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/valid_perfect_square.js
 
-[third_max_num]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/third_maximum_number.js
+[uglyNumber]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/uglyNumber.js
 
-[find_nums_disappeared_in_array]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/find_nums_disappeared_in_array.js
+[addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/addDigits.js
 
-[find_the_difference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/find_the_difference.js
+[moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
 
-[fizz_buzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/fizz_buzz.js
+[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/third_maximum_number.js
 
-[next_great_el]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/next_greater_el.js
+[findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findNumsDisappearedInArray.js
 
-[ransom_note]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransom_note.js
+[findTheDifference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findTheDifference.js
 
-[reverse_integer]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_integer.js
+[fizzBuzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/fizzBuzz.js
 
-[reverse_string]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverse_string.js
+[nextGreaterEl]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nextGreaterEl.js
 
-[single_number]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/single_number.js
+[ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransomNote.js
 
-[two_sum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/two_sum.js
+[reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseInteger.js
 
-[word_pattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/word_pattern.js
+[reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseString.js
+
+[singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/singleNumber.js
+
+[twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/twoSum.js
+
+[wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/wordPattern.js

@@ -47,7 +47,7 @@
 
 [moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
 
-[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/third_maximum_number.js
+[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/thirdMaximumNumber.js
 
 [findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findNumsDisappearedInArray.js
 

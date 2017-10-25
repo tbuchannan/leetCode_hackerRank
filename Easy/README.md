@@ -37,9 +37,9 @@
 - [x] [Word Pattern][wordPattern]
 
 
-[nim_game]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
+[nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
-[valid_perfect_square]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/valid_perfect_square.js
+[validPerfectSquare]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/validPerfectSquare.js
 
 [uglyNumber]:http//github.com/tbuchannan/leetCode_hackerRank/blob/master/uglyNumber.js
 

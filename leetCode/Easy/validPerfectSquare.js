@@ -3,23 +3,22 @@
 // Note: Do not use any built-in library function such as sqrt.
 //
 // Example 1:
-//
 // Input: 16
 // Returns: True
+
 // Example 2:
-//
 // Input: 14
 // Returns: False
 
 
 const isPerfectSquare = (num) => {
-  let end = num / 2;
   let start = 1;
 
   if (num === 1) {
     return true;
   }
-  while (start < end) {
+
+  while (start * start <= num) {
     if (start * start === num) {
       return true;
     }
@@ -27,7 +26,4 @@ const isPerfectSquare = (num) => {
   }
 
   return false;
-
-
-
 };

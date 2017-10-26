@@ -16,6 +16,6 @@ const isUgly = (num) => {
     }
   }
 
-/* Only 'Ugly' Numbers will have one remaining, otherwise num will be equal to the smallest prime factor */
-return num === 1;
+/* Only 'Ugly' Numbers will have 1 remaining, otherwise num will be equal to the smallest prime factor */
+  return num === 1;
 };

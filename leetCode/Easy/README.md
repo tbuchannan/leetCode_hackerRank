@@ -1,40 +1,40 @@
-## TODOs
-
 ### Difficulty
 
 #### Easy
 
-- [ ] [Complete Nim Game][nimGame]
+- [Valid Perfect Square][validPerfectSquare]
 
-- [ ] [Valid Perfect Square][validPerfectSquare]
+- [Ugly Number][uglyNumber]
 
-- [ ] [Ugly Number][uglyNumber]
+- [Complete Add Digits][addDigits]
 
-- [x] [Complete Add Digits][addDigits]
+- [Complete Move Zeroes][moveZeroes]
 
-- [x] [Complete Move Zeroes][moveZeroes]
+- [Third Maximum Number][thirdMaxNum]
 
-- [x] [Third Maximum Number][thirdMaxNum]
+- [Find Numbers Disappeared In Array][findNumsDisappearedInArray]
 
-- [x] [Find Numbers Disappeared In Array][findNumsDisappearedInArray]
+- [Find the Difference][findTheDifference]
 
-- [x] [Find the Difference][findTheDifference]
+- [Fizz Buzz][fizzBuzz]
 
-- [x] [Fizz Buzz][fizzBuzz]
+- [Next Greater Element][nextGreaterEl]
 
-- [x] [Next Greater Element][nextGreaterEl]
+- [Ransom Note][ransomNote]
 
-- [x] [Ransom Note][ransomNote]
+- [Reverse Integer][reverseInteger]
 
-- [x] [Reverse Integer][reverseInteger]
+- [Reverse String][reverseString]
 
-- [x] [Reverse String][reverseString]
+- [Single Number][singleNumber]
 
-- [x] [Single Number][singleNumber]
+- [Two Sum][twoSum]
 
-- [x] [Two Sum][twoSum]
+- [Word Pattern][wordPattern]
 
-- [x] [Word Pattern][wordPattern]
+### Todos
+
+- [Complete Nim Game][nimGame]
 
 
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js

@@ -2,37 +2,39 @@
 
 #### Easy
 
-- [Valid Perfect Square][validPerfectSquare]
+- [1 - Two Sum][twoSum]
 
-- [Ugly Number][uglyNumber]
+- [7 - Reverse Integer][reverseInteger]
 
-- [Complete Add Digits][addDigits]
+- [136 - Single Number][singleNumber]
 
-- [Complete Move Zeroes][moveZeroes]
+- [258 - Add Digits][addDigits]
 
-- [Third Maximum Number][thirdMaxNum]
+- [263 - Ugly Number][uglyNumber]
 
-- [Find Numbers Disappeared In Array][findNumsDisappearedInArray]
+- [283 - Move Zeroes][moveZeroes]
 
-- [Find the Difference][findTheDifference]
+- [290 - Word Pattern][wordPattern]
 
-- [Fizz Buzz][fizzBuzz]
+- [344 - Reverse String][reverseString]
 
-- [Next Greater Element][nextGreaterEl]
+- [367 - Valid Perfect Square][validPerfectSquare]
 
-- [Ransom Note][ransomNote]
+- [383 - Ransom Note][ransomNote]
 
-- [Reverse Integer][reverseInteger]
+- [389 - Find the Difference][findTheDifference]
 
-- [Reverse String][reverseString]
+- [412 - Fizz Buzz][fizzBuzz]
 
-- [Single Number][singleNumber]
+- [414 - Third Maximum Number][thirdMaxNum]
 
-- [Two Sum][twoSum]
+- [448 - Find Numbers Disappeared In Array][findNumsDisappearedInArray]
 
-- [Word Pattern][wordPattern]
+- [461 - Hamming Distance][hammingDistance]
 
-- [Hamming Distance][hammingDistance]
+- [496 - Next Greater Element I][nextGreaterEl]
+
+
 
 ### Todos
 

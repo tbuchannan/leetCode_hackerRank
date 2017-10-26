@@ -32,6 +32,8 @@
 
 - [Word Pattern][wordPattern]
 
+- [Hamming Distance][hammingDistance]
+
 ### Todos
 
 - [Complete Nim Game][nimGame]
@@ -68,3 +70,5 @@
 [twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/twoSum.js
 
 [wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/wordPattern.js
+
+[hammingDistance]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/hammingDistance.js

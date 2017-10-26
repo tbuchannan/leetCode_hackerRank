@@ -5,6 +5,17 @@
 // Note that 1 is typically treated as an ugly number.
 
 
-const uglyNumber = (num) => {
+const isUgly = (num) => {
+  if (num <= 0){
+    return false;
+  }
+  /* Remove all multiples of 2, 3 and 5 */
+  for (let i = 2; i < 6; i++) {
+    while(num % i === 0){
+        num /= i;
+    }
+  }
 
+/* Only 'Ugly' Numbers will have one remaining, otherwise num will be equal to the smallest prime factor */
+return num === 1;
 };

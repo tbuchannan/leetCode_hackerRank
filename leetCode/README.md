@@ -18,6 +18,7 @@
 - [448 - Find Numbers Disappeared In Array][findNumsDisappearedInArray]
 - [461 - Hamming Distance][hammingDistance]
 - [496 - Next Greater Element I][nextGreaterEl]
+- [657 - Judge Route Circle][judgeCircle]
 
 #### Medium
 
@@ -31,42 +32,27 @@
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
 <!-- EASY LINKS -->
-[validPerfectSquare]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/validPerfectSquare.js
-
-[uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/uglyNumber.js
-
-[addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/addDigits.js
-
-[moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
-
-[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/thirdMaximumNumber.js
-
-[findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findNumsDisappearedInArray.js
-
-[findTheDifference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findTheDifference.js
-
-[fizzBuzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/fizzBuzz.js
-
-[nextGreaterEl]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nextGreaterEl.js
-
-[ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransomNote.js
-
-[reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseInteger.js
-
-[reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseString.js
-
-[singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/singleNumber.js
 
 [twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/twoSum.js
-
+[reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseInteger.js
+[singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/singleNumber.js
+[addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/addDigits.js
+[uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/uglyNumber.js
+[moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
 [wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/wordPattern.js
-
+[reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseString.js
+[validPerfectSquare]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/validPerfectSquare.js
+[ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransomNote.js
+[findTheDifference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findTheDifference.js
+[fizzBuzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/fizzBuzz.js
+[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/thirdMaximumNumber.js
+[findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findNumsDisappearedInArray.js
 [hammingDistance]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/hammingDistance.js
+[nextGreaterEl]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nextGreaterEl.js
+[judgeCircle]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/judgeRouteCircle.js
 
 <!--  MEDIUM LINKS -->
 
 [countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/countingBits.js
-
 [findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/findAllDuplicates.js
-
 [palindromicSubstrings]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/palindromicSubstrings.js

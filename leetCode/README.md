@@ -9,6 +9,7 @@
 - [263 - Ugly Number][uglyNumber]
 - [283 - Move Zeroes][moveZeroes]
 - [290 - Word Pattern][wordPattern]
+- [260 - Reverse Linked List][reverseList]
 - [344 - Reverse String][reverseString]
 - [367 - Valid Perfect Square][validPerfectSquare]
 - [383 - Ransom Note][ransomNote]
@@ -41,6 +42,7 @@
 [uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/uglyNumber.js
 [moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
 [wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/wordPattern.js
+[reverseList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseLinkedList.js
 [reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseString.js
 [validPerfectSquare]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/validPerfectSquare.js
 [ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransomNote.js

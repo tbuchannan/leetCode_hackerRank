@@ -31,28 +31,29 @@
 ### Todos
 
 - [Nim Game][nimGame]
+
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
 <!-- EASY LINKS -->
 
-[twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/twoSum.js
-[reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseInteger.js
-[singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/singleNumber.js
-[addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/addDigits.js
-[uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/uglyNumber.js
-[moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/moveZeroes.js
-[wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/wordPattern.js
-[reverseList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseLinkedList.js
-[reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/reverseString.js
-[validPerfectSquare]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/validPerfectSquare.js
-[ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/ransomNote.js
-[findTheDifference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findTheDifference.js
-[fizzBuzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/fizzBuzz.js
-[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/thirdMaximumNumber.js
-[findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/findNumsDisappearedInArray.js
-[hammingDistance]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/hammingDistance.js
-[nextGreaterEl]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nextGreaterEl.js
-[judgeCircle]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/judgeRouteCircle.js
+[twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/twoSum.js
+[reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseInteger.js
+[singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/singleNumber.js
+[addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/addDigits.js
+[uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/uglyNumber.js
+[moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/moveZeroes.js
+[wordPattern]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/wordPattern.js
+[reverseList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseLinkedList.js
+[reverseString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseString.js
+[validPerfectSquare]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/validPerfectSquare.js
+[ransomNote]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/ransomNote.js
+[findTheDifference]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/findTheDifference.js
+[fizzBuzz]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/fizzBuzz.js
+[thirdMaxNum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/thirdMaximumNumber.js
+[findNumsDisappearedInArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/findNumsDisappearedInArray.js
+[hammingDistance]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/hammingDistance.js
+[nextGreaterEl]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/nextGreaterEl.js
+[judgeCircle]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/judgeRouteCircle.js
 
 <!--  MEDIUM LINKS -->
 

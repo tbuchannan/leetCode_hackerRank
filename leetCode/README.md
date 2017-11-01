@@ -57,7 +57,7 @@
 
 <!--  MEDIUM LINKS -->
 
-[countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/countingBits.js
-[findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/findAllDuplicates.js
-[palindromicSubstrings]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/palindromicSubstrings.js
-[maximumBinaryTree]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Medium/maximumBinaryTree.js
+[countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/countingBits.js
+[findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/findAllDuplicates.js
+[palindromicSubstrings]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/palindromicSubstrings.js
+[maximumBinaryTree]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/maximumBinaryTree.js

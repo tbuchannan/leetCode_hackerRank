@@ -24,6 +24,7 @@
 #### Medium
 
 - [33 - Search in Rotated Sorted Array][searchInRotatedArray]
+- [73 - Set Matrix Zeroes][setMatrixZeroes]
 - [338 - Counting Bits][countingBits]
 - [442 - Find All Duplicates in an Array][findAllDuplicates]
 - [647 - Palindromic Substrings][palindromicSubstrings]
@@ -59,6 +60,7 @@
 <!--  MEDIUM LINKS -->
 
 [searchInRotatedArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/searchInRotatedArray.js
+[setMatrixZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/setMatrixZeroes.js
 [countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/countingBits.js
 [findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/findAllDuplicates.js
 [palindromicSubstrings]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/palindromicSubstrings.js

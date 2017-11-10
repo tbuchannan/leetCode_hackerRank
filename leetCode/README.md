@@ -5,6 +5,7 @@
 - [1 - Two Sum][twoSum]
 - [7 - Reverse Integer][reverseInteger]
 - [136 - Single Number][singleNumber]
+- [237 - Delete Node in a Linked List][deleteNodeLinkedList]
 - [258 - Add Digits][addDigits]
 - [263 - Ugly Number][uglyNumber]
 - [283 - Move Zeroes][moveZeroes]
@@ -41,6 +42,7 @@
 [twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/twoSum.js
 [reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseInteger.js
 [singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/singleNumber.js
+[deleteNodeLinkedList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/deleteNodeInLinkedList.js
 [addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/addDigits.js
 [uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/uglyNumber.js
 [moveZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/moveZeroes.js

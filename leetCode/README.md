@@ -24,6 +24,7 @@
 
 #### Medium
 
+- [2 - Add Two Numbers][addTwoNumbers]
 - [33 - Search in Rotated Sorted Array][searchInRotatedArray]
 - [73 - Set Matrix Zeroes][setMatrixZeroes]
 - [338 - Counting Bits][countingBits]
@@ -34,6 +35,7 @@
 ### Todos
 
 - [Nim Game][nimGame]
+- [198 - House Robber][houseRobber]
 
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
@@ -42,6 +44,7 @@
 [twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/twoSum.js
 [reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseInteger.js
 [singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/singleNumber.js
+[houseRobber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/houseRobber.js
 [deleteNodeLinkedList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/deleteNodeInLinkedList.js
 [addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/addDigits.js
 [uglyNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/uglyNumber.js
@@ -61,6 +64,7 @@
 
 <!--  MEDIUM LINKS -->
 
+[addTwoNumbers]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/addTwoNumbers.js
 [searchInRotatedArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/searchInRotatedArray.js
 [setMatrixZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/setMatrixZeroes.js
 [countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/countingBits.js

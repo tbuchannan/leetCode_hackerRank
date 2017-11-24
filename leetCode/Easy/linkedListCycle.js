@@ -9,24 +9,21 @@
 
 
 const hasCycle = (head) => {
-    if (head === null || head.next === null){
-        return false;
+  if (head === null || head.next === null){
+    return false;
+  }
+  
+  let slowPointer = head;
+  let fastPointer = head.next;
+
+  while (slowPointer !== fastPointer){
+    if(fastPointer === null || fastPointer.next === null){
+      return false;
+    } else {
+      slowPointer = slowPointer.next;
+      fastPointer = fastPointer.next.next;
     }
-    let slowPointer = head;
-    let fastPointer = head.next;
+  }
 
-    while (slowPointer.next !== null){
-      if (slowPointer === fastPointer) {
-        return true;
-      }
-      if(fastPointer === null || fastPointer.next === null){
-          return false;
-      }else {
-            slowPointer = slowPointer.next;
-            fastPointer = fastPointer.next.next;
-        }
-
-
-    }
-
+  return true;
 };

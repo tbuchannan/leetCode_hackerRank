@@ -31,6 +31,7 @@
 - [2 - Add Two Numbers][addTwoNumbers]
 - [33 - Search in Rotated Sorted Array][searchInRotatedArray]
 - [73 - Set Matrix Zeroes][setMatrixZeroes]
+- [142 - Linked List Cycle II][linkedListCycleII]
 - [338 - Counting Bits][countingBits]
 - [442 - Find All Duplicates in an Array][findAllDuplicates]
 - [647 - Palindromic Substrings][palindromicSubstrings]
@@ -76,6 +77,7 @@
 [addTwoNumbers]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/addTwoNumbers.js
 [searchInRotatedArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/searchInRotatedArray.js
 [setMatrixZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/setMatrixZeroes.js
+[linkedListCycleII]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/linkedListCycleII.js
 [countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/countingBits.js
 [queueReconstructionByHeight]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/queueReconstructionByHeight.js
 [findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/findAllDuplicates.js

@@ -4,7 +4,10 @@
 
 - [1 - Two Sum][twoSum]
 - [7 - Reverse Integer][reverseInteger]
+- [26 - Remove Duplicates from Sorted Array][removeDuplicatesFromSortedArray]
+- [125 - Valid Palindrome][validPalindrome]
 - [136 - Single Number][singleNumber]
+- [141 - Linked List Cycle][linkedListCycle]
 - [237 - Delete Node in a Linked List][deleteNodeLinkedList]
 - [258 - Add Digits][addDigits]
 - [263 - Ugly Number][uglyNumber]
@@ -36,6 +39,7 @@
 
 - [Nim Game][nimGame]
 - [198 - House Robber][houseRobber]
+- [406 - Queue Reconstruction by Height][queueReconstructionByHeight]
 
 [nimGame]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/Easy/nimGame.js
 
@@ -43,7 +47,10 @@
 
 [twoSum]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/twoSum.js
 [reverseInteger]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/reverseInteger.js
+[removeDuplicatesFromSortedArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/removeDuplicatesFromSortedArray.js
+[validPalindrome]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/validPalindrome.js
 [singleNumber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/singleNumber.js
+[linkedListCycle]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/linkedListCycle.js
 [houseRobber]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/houseRobber.js
 [deleteNodeLinkedList]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/deleteNodeInLinkedList.js
 [addDigits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Easy/addDigits.js
@@ -68,6 +75,7 @@
 [searchInRotatedArray]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/searchInRotatedArray.js
 [setMatrixZeroes]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/setMatrixZeroes.js
 [countingBits]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/countingBits.js
+[queueReconstructionByHeight]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/queueReconstructionByHeight.js
 [findAllDuplicates]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/findAllDuplicates.js
 [palindromicSubstrings]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/palindromicSubstrings.js
 [maximumBinaryTree]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/leetCode/Medium/maximumBinaryTree.js

@@ -60,23 +60,20 @@ Thus, we print Empty String.
 */
 
 
-function super_reduced_string(s){
-    // Complete this function
-    let stringArr = s.split("");
-    let deletion = true;
+function superReducedString(s){
+  if (s.length <= 0){
+    return "Empty String";
+  }
 
-    while (deletion){
-      deletion = false;
-      for(let i = 0, l = stringArr.length; i < l; i++){
-        let char1 = stringArr[i];
-        let char2 = stringArr[i + 1];
-        if (char1 === char2){
-          [stringArr[i], stringArr[i + 1]] = [null, null];
-          deletion = true;
-        }
-      }
-      stringArr = stringArr.join("").split("");
+  let stringArr = s.split("");
+  for(let i = 0, l = stringArr.length; i < l; i++){
+    let char1 = stringArr[i];
+    let char2 = stringArr[i + 1];
+    if (char1 === char2){
+      [stringArr[i], stringArr[i + 1]] = [null, null];
     }
+  }
 
-    return stringArr.join("");
+  let result = stringArr.join("");
+  return result.length < s.length ? superReducedString(result) : result;
 }

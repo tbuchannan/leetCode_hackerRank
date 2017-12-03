@@ -17,4 +17,4 @@
 
 
 <!-- STRING LINKS -->
-[superReducedString]: [https://github.com/tbuchannan/leetCode_hackerRank/blob/master/hackerRank/Strings/superReducedString.js]
+[superReducedString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/hackerRank/Strings/superReducedString.js

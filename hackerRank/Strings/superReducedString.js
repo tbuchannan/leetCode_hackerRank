@@ -20,6 +20,7 @@
  * baab → bb
  * bb → Empty String
 */
+
 function superReducedString(s){
   if (s.length <= 0){
     return "Empty String";

@@ -3,6 +3,7 @@
 #### Strings
 
 - [Super Reduced String][superReducedString]
+- [Camel Case][camelCase]
 
 
 #### Medium
@@ -18,3 +19,4 @@
 
 <!-- STRING LINKS -->
 [superReducedString]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/hackerRank/Strings/superReducedString.js
+[camelCase]: https://github.com/tbuchannan/leetCode_hackerRank/blob/master/hackerRank/Strings/camelCase.js

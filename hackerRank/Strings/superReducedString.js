@@ -1,4 +1,4 @@
-/*
+/* EASY
  * Steve has a string, "s", consisting of  lowercase English alphabetic letters. In
  * one operation, he can delete any pair of adjacent letters with same value. For
  * example, string "aabcc" would become either "aab" or "bcc" after operation.

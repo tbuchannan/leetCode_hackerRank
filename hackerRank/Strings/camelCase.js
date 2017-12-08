@@ -1,4 +1,4 @@
-/*
+/* EASY
  * Alice wrote a sequence of words in CamelCase as a string of letters, , having the following properties:
  *
  * It is a concatenation of one or more words consisting of English letters.

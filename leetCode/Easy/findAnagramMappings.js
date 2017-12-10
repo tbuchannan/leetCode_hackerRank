@@ -17,3 +17,20 @@
 //
 // A, B have equal lengths in range [1, 100].
 // A[i], B[i] are integers in range [0, 10^5].
+
+
+const anagramMappings = (a, b) => {
+  let anagramObj = {};
+  let result = [];
+
+  b.forEach((item, index) => {
+    anagramObj[item] = index;
+  });
+
+  a.forEach( item => {
+    result.push(anagramObj[item]);
+  });
+
+  return result;
+
+};

@@ -13,3 +13,16 @@
 // Input: 1
 // Output: 0
 // Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
+
+const findComplement = (num) => {
+  let numBinary = num.toString(2);
+
+  let resultBinary = "";
+
+  for (let i = 0; i < numBinary.length; i++) {
+    resultBinary+= numBinary[i] === "0" ? "1" : "0";
+  }
+
+  return parseInt(resultBinary.toString(2), 2);
+
+};

@@ -25,6 +25,18 @@
 //
 // Thus, we print the array's final state as a single line of space-separated values, which is 5 1 2 3 4.
 
-const leftRotation = (rotations, arr) => {
+// TODO:  refactor later
+var leftRotation = (rotations, arr) => {
   return (arr.slice(rotations).concat(arr)).slice(0, arr.length);
+};
+
+// This works where the amount of rotations may be larger than the array itself
+var leftRotationTwo = (rotations, arr) => {
+  let result = [];
+  let position = rotations % arr.length;
+  while (result.length < arr.length) {
+    result.push(arr[position]);
+    position = (position + 1) % arr.length;
+  }
+  return result;
 };

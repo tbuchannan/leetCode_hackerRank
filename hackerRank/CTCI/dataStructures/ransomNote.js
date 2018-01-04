@@ -10,11 +10,6 @@
 // The second line contains  space-separated strings denoting the words present in the magazine.
 // The third line contains  space-separated strings denoting the words present in the ransom note.
 //
-// Constraints
-//
-// .
-// Each word consists of English alphabetic letters (i.e.,  to  and  to ).
-// The words in the note and magazine are case-sensitive.
 // Output Format
 //
 // Print Yes if he can use the magazine to create an untraceable replica of his ransom note; otherwise, print No.
@@ -36,3 +31,34 @@
 //
 // No
 // Explanation 1
+
+var ransomNote = (magazine, note) => {
+  let magazineFreq = wordFreq(magazine);
+  let noteFreq = wordFreq(note);
+
+  for (let i = 0; i < note.length; i++) {
+    let word = note[i];
+    if (magazineFreq[word] === undefined || magazineFreq[word] <= 0) {
+      return "No";
+    } else {
+      magazineFreq[word]--;
+    }
+  }
+
+  return "Yes";
+};
+
+var wordFreq = (sentence) => {
+  let result = {};
+
+  for (var i = 0; i < sentence.length; i++) {
+    let word = sentence[i];
+    if (result[word]) {
+      result[word]++;
+    } else {
+      result[word] = 1;
+    }
+  }
+
+  return result;
+};

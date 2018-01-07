@@ -47,29 +47,18 @@ var balancedBrackets = (string) => {
   }
 
   let openBrackets = {
-    "{":[], "[":[], "(":[]
+    "{":"}", "[":"]", "(":")"
   };
-  let closeBrackets = {
-    "}":"{", "]":"[", ")":"("
-  };
-  let closeCounter = 0;
+
+  let closeOrder = [];
+
   for (let i = 0; i < string.length; i++) {
     let brace = string[i];
     if (openBrackets[brace]) {
-      openBrackets[brace].push(i);
-    } else {
-      closeCounter++;
-      let matchingBrace = closeBrackets[brace];
-      let braceArr = openBrackets[matchingBrace];
-      if (braceArr[braceArr.length - 1] !== i - closeCounter) {
+      closeOrder.push(openBrackets[brace]);
+    } else if (closeOrder.pop() !== brace) {
         return "NO";
-      } else {
-        closeCounter++;
-        braceArr.pop();
       }
     }
-  }
-
-  return "YES";
-};
-balancedBrackets("({[({({})})]})")
+    return "YES";
+  };

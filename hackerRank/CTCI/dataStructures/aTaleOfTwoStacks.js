@@ -18,6 +18,42 @@
 // 14
 
 
-var queue = (input) {
+var queue = (input) => {
+  let result = [];
+  let stack = [];
 
-}
+  for (let i = 0; i < input.length; i++) {
+    let item = input[i];
+    let action = item[0];
+    let element = item.split(" ")[1];
+
+    switch (action) {
+      case '1':
+        stack.push(element);
+        break;
+      case '2':
+        stack.reverse().pop();
+        stack.reverse();
+        // dequeue(stack);
+        break;
+      case '3':
+        result.push(stack[0], "\n");
+        break;
+    }
+  }
+
+  return result;
+};
+/* For those who believe reverse().pop() is 'cheating' */ 
+var dequeue = (main) => {
+  let temp = [];
+  while (main.length > 1) {
+    temp.push(main.pop());
+  }
+  main.pop();
+
+  while (temp.length > 0) {
+    main.push(temp.pop());
+  }
+  return main;
+};

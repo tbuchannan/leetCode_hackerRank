@@ -9,3 +9,12 @@
 // Note:
 // n is a positive integer, which is in the range of [1, 10000].
 // All the integers in the array will be in the range of [-10000, 10000].
+
+const arrayPairSum = function(nums) {
+    let sum = 0;
+    let sorted = nums.sort(function(a, b){return a-b;});
+    for(let i = 0; i < sorted.length; i+=2) {
+        sum += sorted[i];
+    }
+    return sum;
+};
